@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Projeto de desenvolvimento de uma landing page para o desafio 1 do curso de formação em técnologia da DNC
 
-link do site disponibilizado. [Clique aqui]() ou acesse em: <br>
+link do site disponibilizado. [Clique aqui](https://candid-cascaron-4c8d0c.netlify.app/) ou acesse em: https://candid-cascaron-4c8d0c.netlify.app/ <br>
 link da [planilha](https://docs.google.com/spreadsheets/d/1ah-Rp7f3jkn4JDNzkPRlqbJ6kbogJa_JATOQ3wVeyv8/edit#gid=0) de registro de informações  ou acesse em: https://docs.google.com/spreadsheets/d/1ah-Rp7f3jkn4JDNzkPRlqbJ6kbogJa_JATOQ3wVeyv8/edit#gid=0
 
 ## 🔖 Layout
